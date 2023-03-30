@@ -8,3 +8,15 @@
     grid-template-columns: repeat(3, 1fr);
     gap: 45px;
 }
+.cartBtn{
+    padding-top: 30px;
+}
+.cart-container{
+    height: 400px;
+    position: sticky;
+    top: 0;
+    background-color: hotpink;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 7px;
+}
